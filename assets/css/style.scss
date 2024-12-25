@@ -1,5 +1,16 @@
 @import "minima";
 
+/* 导航链接样式 */
+.nav-link {
+  display: inline-block;
+  margin-right: 20px;  /* 链接之间的间距 */
+  text-decoration: none;
+  
+  &:last-child {
+    margin-right: 0;  /* 最后一个链接不需要右边距 */
+  }
+}
+
 /* 直接限制所有主要内容容器的宽度 */
 .wrapper,
 .page-content,

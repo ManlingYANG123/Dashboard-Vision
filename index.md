@@ -15,6 +15,4 @@ Dashboards serve as effective visualization tools for conveying complex informat
 
 ## Links
 
-* [Paper](https://example.com/paper)
-* [Code](https://example.com/code)
-* [Supplementary](https://example.com/supp)
+[Paper]{:.nav-link} [Code]{:.nav-link} [Supplementary]{:.nav-link}
