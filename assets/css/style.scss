@@ -17,7 +17,10 @@
 .post-content,
 main,
 article,
-.home {
+.home,
+body > *,
+.container,
+.content-wrapper {
   max-width: 800px !important;  /* 使用 !important 确保覆盖其他样式 */
   margin-left: auto !important;
   margin-right: auto !important;
@@ -38,4 +41,17 @@ embed,
 iframe {
   max-width: 100%;
   width: 100%;
+}
+
+/* 添加全局限制 */
+html, body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+/* 添加额外的容器限制 */
+div, section, article, aside, main {
+  max-width: 800px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
