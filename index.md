@@ -15,4 +15,4 @@ Dashboards serve as effective visualization tools for conveying complex informat
 
 ## Links
 
-[Paper]{:.nav-link} [Code]{:.nav-link} [Supplementary]{:.nav-link}
+[Paper](https://manlingyang123.github.io/Dashboard-Vision/){:.nav-link} [Code](https://manlingyang123.github.io/Dashboard-Vision/){:.nav-link} [Supplementary](https://manlingyang123.github.io/Dashboard-Vision/){:.nav-link}
