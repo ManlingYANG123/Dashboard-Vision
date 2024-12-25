@@ -1,17 +1,30 @@
 @import "minima";
 
-.wrapper {
-  max-width: 800px;  // 你可以调整这个值
-  margin: 0 auto;
-  padding: 0 20px;
+/* 直接限制所有主要内容容器的宽度 */
+.wrapper,
+.page-content,
+.post-content,
+main,
+article,
+.home {
+  max-width: 800px !important;  /* 使用 !important 确保覆盖其他样式 */
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  box-sizing: border-box !important;
 }
 
-.page-content {
-  padding: 30px 0;
+/* 确保图片不会超出容器 */
+img {
+  max-width: 100%;
+  height: auto;
 }
 
-.post-content {
+/* 确保 PDF 嵌入也不会超出容器 */
+embed,
+iframe {
+  max-width: 100%;
   width: 100%;
-  max-width: 800px;  // 你可以调整这个值
-  margin: 0 auto;
 }
