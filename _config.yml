@@ -1,5 +1,4 @@
 theme: minima
-title: 'Dashboard Vision: Using Eye-Tracking to Understand and Predict Dashboard Viewing Behaviors'
 description: Research projects on visualization and user intent.
 baseurl: "" # 如果是 GitHub Pages，保持为空
 markdown: kramdown
