@@ -1,0 +1,17 @@
+@import "minima";
+
+.wrapper {
+  max-width: 800px;  // 你可以调整这个值
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.page-content {
+  padding: 30px 0;
+}
+
+.post-content {
+  width: 100%;
+  max-width: 800px;  // 你可以调整这个值
+  margin: 0 auto;
+}
