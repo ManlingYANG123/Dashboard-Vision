@@ -1,42 +1,138 @@
 body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   margin: 0;
-  font-family: Arial, sans-serif;
-  background-color: #f9f9f9; /* 背景颜色 */
-}
-
-.container {
-  max-width: 800px;
-  margin: 0 auto;
   padding: 20px;
 }
 
-.container h1 {
-  margin-bottom: 30px;
+.page-content {
+  width: 100%;
+  max-width: 1000px !important;
+  margin: 0 auto;
 }
 
-.container h2 {
-  margin-top: 40px;
-  margin-bottom: 20px;
+.wrapper {
+  width: 100% !important;
+  max-width: 1000px !important;
+  margin: 0 auto !important;
+  padding: 20px 40px !important;
+  box-sizing: border-box;
 }
 
-.container p {
-  line-height: 1.6;
-  margin-bottom: 20px;
+.pipeline-image {
+  width: 100%;
+  max-width: 100%;
+  margin: 2rem auto;
+  text-align: center;
 }
 
-.container ul {
-  margin-bottom: 30px;
+.pipeline-image img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
 }
 
-.container ul li {
-  margin-bottom: 10px;
+img, 
+video,
+iframe,
+embed,
+.post-content {
+  max-width: 100% !important;
+  height: auto;
 }
 
-.container a {
-  color: #0366d6;
+@media screen and (max-width: 1040px) {
+  .wrapper {
+    padding: 20px !important;
+  }
+  
+  body {
+    padding: 10px;
+  }
+}
+
+.nav-buttons {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.nav-button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #495DBB;
+  color: white;
   text-decoration: none;
+  border-radius: 4px;
 }
 
-.container a:hover {
-  text-decoration: underline;
+.nav-button:hover {
+  background-color: #495DBB;
+}
+
+.paper-meta {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* 标题区域样式 */
+/* .title-section {
+  text-align: center;
+  margin-bottom: 3rem;
+  margin-bottom: 20px;
+} */
+
+.title-section h1 {
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* 作者信息样式 */
+.paper-meta {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* 导航按钮样式 */
+.nav-buttons {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.nav-button {
+  display: inline-block;
+  padding: 7px 18px;
+  margin: 5px;
+  background-color: #495DBB;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.nav-button:hover {
+  background-color: #495DBB;
+}
+
+/* Abstract 文本样式 */
+p {
+  text-align: justify;
+  line-height: 1.4;
+  margin-bottom: 1rem;
+  letter-spacing: -0.2px;
+  word-spacing: -0.1px;
+}
+
+/* 确保标题仍然是左对齐的 */
+h2 {
+  text-align: left;
+  margin: 2rem 0 1rem;
+}
+
+/* 确保其他元素的对齐方式不受影响 */
+.title-section,
+.paper-meta,
+.nav-buttons {
+  text-align: center;
 }
