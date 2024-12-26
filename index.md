@@ -29,7 +29,7 @@ title: "Dashboard Vision"
   </div>
 </div>
 
-<div class="pipeline-image"></div>
+<div class="pipeline-image">
   <img src="pipeline.png" alt="Research Pipeline">
 </div>
 
