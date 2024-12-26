@@ -25,11 +25,11 @@ title: "Dashboard Vision"
     <a href="https://manlingyang123.github.io/Dashboard-Vision/" class="nav-button">Paper</a>
     <a href="https://manlingyang123.github.io/Dashboard-Vision/" class="nav-button">Code</a>
     <a href="https://osf.io/eyvda/" class="nav-button">Dataset</a>
-    <a href="https://manlingyang123.github.io/Dashboard-Vision/" class="nav-button">Supplementary</a>
+    <a href="assets/files/Supplemental Material.pdf" class="nav-button" download>Supplementary</a>
   </div>
 </div>
 
-<div class="pipeline-image">
+<div class="pipeline-image"></div>
   <img src="pipeline.png" alt="Research Pipeline">
 </div>
 
