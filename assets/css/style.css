@@ -77,12 +77,10 @@ embed,
   margin-bottom: 20px;
 }
 
-/* 标题区域样式 */
-/* .title-section {
+.title-section {
   text-align: center;
-  margin-bottom: 3rem;
   margin-bottom: 20px;
-} */
+}
 
 .title-section h1 {
   text-align: center;

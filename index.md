@@ -7,8 +7,18 @@ title: "Dashboard Vision"
   <h1>Dashboard Vision: Using Eye-Tracking to Understand and Predict Dashboard Viewing Behaviors</h1>
   
   <div class="paper-meta">
-    <p><strong>In Submission:</strong> <em>IEEE TVCG</em></p>
-    <p><strong>Authors:</strong> Manling Yang, Yihan Hou, Ling Li, Remco Chang, Wei Zeng</p>
+    <p>
+      <a href="mailto:myang838@connect.hku.edu.cn">Manling Yang</a><sup>1</sup>, 
+      <a href="mailto:yhou073@connect.hku.edu.cn">Yihan Hou</a><sup>1</sup>, 
+      <a href="mailto:lli297@connect.hku.edu.cn">Ling Li</a><sup>1</sup>, 
+      <a href="mailto:remco.chang@tufts.edu">Remco Chang</a><sup>3</sup>, 
+      <a href="mailto:weizeng@hkust-gz.edu.cn">Wei Zeng</a><sup>1, 2</sup>
+    </p>
+    <p>
+      <strong>1</strong> Hong Kong University of Science and Technology (Guangzhou) <br>
+      <strong>2</strong> Hong Kong University of Science and Technology <br>
+      <strong>3</strong> Tufts University
+    </p>
   </div>
 
   <div class="nav-buttons">
