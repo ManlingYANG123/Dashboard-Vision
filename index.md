@@ -8,9 +8,9 @@ title: "Dashboard Vision"
   
   <div class="paper-meta">
     <p>
-      <a href="mailto:myang838@connect.hku.edu.cn">Manling Yang</a><sup>1</sup>, 
-      <a href="mailto:yhou073@connect.hku.edu.cn">Yihan Hou</a><sup>1</sup>, 
-      <a href="mailto:lli297@connect.hku.edu.cn">Ling Li</a><sup>1</sup>, 
+      <a href="mailto:myang838@connect.hkust-gz.edu.cn">Manling Yang</a><sup>1</sup>, 
+      <a href="mailto:yhou073@connect.hkust-gz.edu.cn">Yihan Hou</a><sup>1</sup>, 
+      <a href="mailto:lli297@connect.hkust-gz.edu.cn">Ling Li</a><sup>1</sup>, 
       <a href="mailto:remco.chang@tufts.edu">Remco Chang</a><sup>3</sup>, 
       <a href="mailto:weizeng@hkust-gz.edu.cn">Wei Zeng</a><sup>1, 2</sup>
     </p>
