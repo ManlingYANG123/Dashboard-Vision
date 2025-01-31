@@ -22,7 +22,7 @@ title: "Dashboard Vision"
   </div>
 
   <div class="nav-buttons">
-    <a href="https://manlingyang123.github.io/Dashboard-Vision/" class="nav-button">Paper</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10850879" class="nav-button">Paper</a>
     <a href="https://osf.io/eyvda/" class="nav-button">Dataset & Code</a>
     <a href="assets/files/Supplemental Material.pdf" class="nav-button" download>Supplementary</a>
   </div>
